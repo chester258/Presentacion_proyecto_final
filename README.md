@@ -27,7 +27,7 @@ nos ayudaria a sacar ciertas concluciones, por lo menos en el marco de los datos
 
 Lo principal: 
 -Salarios para los distintos puestos de trabajos IT, principalmente se nombra: Data Science, Analytics, Engineer, y Sofwere Engieneer,
-hay una gran catidad de otros puestos de trabajos con distintos nombres que en el dataset no estan normalizados, por que los enfrascamos 
+hay una gran catidad de otros puestos de trabajos con distintos nombres que en el dataset no estan normalizados, por lo que enfrascamos 
 a la mayoria con el nombre generico 'IT'.
 - Beneficios ofrecidos para estos puestos de trabajos
 - Demanda de los puestos en los distintos paises
