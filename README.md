@@ -34,7 +34,3 @@ a la mayoria con el nombre generico 'IT'.
 - Sectores a la que pertenesen las compañias que demandan estos puestos
 - Industria a la que pertenesen las compañias que demandan estos puestos
 
-Vuelvo a aclarar, que esto debe ser visto en un marco de glassdoor o simplemente de un dataset proporcionado por un bootcamp,
-y con esto voy a que las concluciones que se saquen, si valen, va a ser en el marco de glassdoor. Para dar un ejemplo
-practicamente no hay demanda de puestos IT en latinoamerica, cosa que solo tiene sentido en el marco de glassdoor ya que
-aqui no es la plataforma para buscar empleo mas popular.
